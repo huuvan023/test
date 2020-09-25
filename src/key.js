@@ -1,0 +1,1 @@
+export const API_URL = "https://europe-west1-social-media-app-b41d2.cloudfunctions.net/api"
